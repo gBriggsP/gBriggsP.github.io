@@ -20,11 +20,13 @@ time, mark, audio, video {
 
 p.derp {
   font-weight:bold;
-  font-size: 2em;
+  font-size: .25em;
+  margin-left: 400px;
 }
 
 body {
-  line-height: 1; }
+  line-height: 1; 
+}
 
 ol, ul {
   list-style: none; }
@@ -65,4 +67,14 @@ a {
   h1 {
     color: #00afff;
     font-size: 4em;
+  }
+
+  h3 {
+    color: #00afff;
+    font-size: 2em;
+  }
+
+  h2 {
+    color: #00afff;
+    font-size: 2em;
   }
