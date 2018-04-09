@@ -18,6 +18,11 @@ time, mark, audio, video {
   font: inherit;
   vertical-align: baseline; }
 
+p.derp {
+  font-weight:bold;
+  font-size: 2em;
+}
+
 body {
   line-height: 1; }
 
@@ -56,3 +61,8 @@ a {
 
 #main {
   padding: 50px; }
+
+  h1 {
+    color: #00afff;
+    font-size: 4em;
+  }
